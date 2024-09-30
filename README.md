@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gianluca-gazzarini/)
 #
 
-![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianluca-gazzarini&show_icons=true&theme=tokyonight)
+![Gianluca GitHub stats](https://github-readme-stats.vercel.app/api?username=gianluca-gazzarini&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianluca-gazzarini&layout=compact&theme=tokyonight)](https://github.com/gianluca-gazzarini/github-readme-stats)
 
