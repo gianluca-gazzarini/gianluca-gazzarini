@@ -1,4 +1,4 @@
-### Hi! My name is Gianluca Gazzarini 👋
+### Hi! My name is Gianluca 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gianluca-gazzarini/)
 #
